@@ -6,6 +6,8 @@
 
 body {
     background-color: #d9dcd6;
+    flex-wrap: wrap;
+    align-content: center;
 }
 
 .header {
